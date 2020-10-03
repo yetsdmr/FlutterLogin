@@ -5,7 +5,7 @@ A new Flutter application.
 
 ## ScreenShot
 
-<img src="assets/ss.png" height="500em" />
+<img src="assets/images/ss.png" height="500em" />
 
 
 ## Getting Started
