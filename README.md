@@ -5,7 +5,7 @@ A new Flutter application.
 
 ## ScreenShot
 
-https://raw.githubusercontent.com/yetsdmr/FlutterLogin/master/assets/images/ss.png
+<img src="assets/ss.png" height="500em" />
 
 
 ## Getting Started
